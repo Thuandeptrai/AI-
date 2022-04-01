@@ -1,0 +1,9 @@
+pandas
+numpy
+firebase_admin 
+hmmlearn
+keras
+uuid
+sklearn
+matplotlib
+tensorflow
