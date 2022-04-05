@@ -6,4 +6,3 @@ keras
 uuid
 sklearn
 matplotlib
-tensorflow
