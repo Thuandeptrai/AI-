@@ -15,7 +15,7 @@ import os
 ##"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.5/bin")
 import math
 import matplotlib.pyplot as plt
-import keras
+from tensorflow import keras 
 import pandas as pd
 import numpy as np
 from keras.models import Sequential
