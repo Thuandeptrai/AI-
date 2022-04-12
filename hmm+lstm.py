@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1vtSA5qdaOD8A25H8bxR9TZC7DJMp6LFk
 """
 from pickle import TRUE
 
-
+import tensorflow
 import threading
 import os
 ##os.add_dll_directory(
