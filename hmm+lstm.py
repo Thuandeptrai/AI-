@@ -18,11 +18,11 @@ import matplotlib.pyplot as plt
 from tensorflow import keras 
 import pandas as pd
 import numpy as np
-from keras.models import Sequential
-from keras.layers import Dense
-from keras.layers import LSTM
-from keras.layers import Dropout
-from keras.layers import *
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.layers import LSTM
+from tensorflow.keras.layers import Dropout
+from tensorflow.keras.layers import *
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
