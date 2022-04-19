@@ -13,11 +13,6 @@ import threading
 import os
 ##os.add_dll_directory(
 ##"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.5/bin")
-import math
-import matplotlib.pyplot as plt
-from tensorflow import keras 
-import pandas as pd
-import numpy as np
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.layers import LSTM
@@ -33,6 +28,12 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
 import uuid
+import math
+import matplotlib.pyplot as plt
+from tensorflow import keras 
+import pandas as pd
+import numpy as np
+
 
 import sys
 
